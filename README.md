@@ -10,7 +10,7 @@ Build Instructions:
 
 Execute Server:
 1) If the build is successful, binary will be present in the 'target' folder
-2) Run: jav -jar target/password-app-1.0-SNAPSHOT.jar
+2) Run: java -jar target/password-app-1.0-SNAPSHOT.jar
 
 Application Properties:
 The application looks for application.properties for configuration parameters. 
